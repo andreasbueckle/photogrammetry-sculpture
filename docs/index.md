@@ -8,7 +8,7 @@ title: Photogrammetry Files and Workflow Documentation
 **Date**: December 29, 2024
 
 ## Overview
-In this project, a wooden sculputre depicting [Virgin and Child with Saint Anne](https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_Anne) was photogrammetrized. The 14th century wooden sculpture was stolen in 1973 and resurfaced in 2024, then returned to its original place. A news article is [available in German](https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wiesensteig-diebstahl-figur-kirche-lka-100.html). A video (also in German) is [available also](https://filstalwelle.de/video/2024-11-26-wiesensteig-gestohle-kirchenfigur-anna-selbdritt-kehrt-nach-51-jahren-in-die-stiftskirche-zurueck).
+In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne](https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_Anne) was photogrammetrized. The 14th art piece was stolen in 1973 and resurfaced in 2024, then returned to its original place in St. Cyriacus in Wiesensteig, Germany ([website in German](https://www.wiesensteig.de/startseite)). A news article is [available in German](https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wiesensteig-diebstahl-figur-kirche-lka-100.html). A more detailed video is [available in German](https://filstalwelle.de/video/2024-11-26-wiesensteig-gestohle-kirchenfigur-anna-selbdritt-kehrt-nach-51-jahren-in-die-stiftskirche-zurueck).
 
 ## Result
 
