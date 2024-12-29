@@ -15,7 +15,7 @@ In this project, a wooden sculputre depicting [Virgin and Child with Saint Anne]
 <script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer"></script>
 
 <model-viewer 
-  src="/models/anna_lod_1.glb" 
+  src="../models/anna_lod_1.glb" 
   alt="LOD 1 model of the sculpture" 
   auto-rotate 
   camera-controls 
@@ -51,5 +51,5 @@ The following steps were taken:
 - [Blender 4.3.2](https://www.blender.org/)
 
 ## Hardware
-- Fujifilm XT3
-- Fujifilm XF 23mm F2 WR
+- [Fujifilm XT3](https://fujifilm-dsc.com/en/manual/x-t3/)
+- [Fujifilm XF 23mm F2 WR](https://fujifilm-x.com/global/products/lenses/xf23mmf2-r-wr/)
