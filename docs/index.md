@@ -24,6 +24,8 @@ In this project, a wooden sculputre depicting [Virgin and Child with Saint Anne]
 
 **Figure 1**. This LOD 1 model of the St. Anna sculpture features ~750,000 polygons and is ~30 MB large.
 
+The LOD 1 GLB is available [here](/models/anna_lod_1.glb). Other LODs and formats are available [here](/models/).
+
 ## Workflow
 The following steps were taken: 
 
