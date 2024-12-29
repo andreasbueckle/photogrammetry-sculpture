@@ -15,7 +15,7 @@ In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne]
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
 <model-viewer 
-  src="https://andreasbueckle.github.io/photogrammetry-scultpure/models/anna_lod_1.glb" 
+  src="https://andreasbueckle.github.io/photogrammetry-scultpure/models/anna_lod_2.glb" 
   alt="LOD 1 model of the sculpture" 
   auto-rotate 
   camera-controls 
