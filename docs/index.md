@@ -15,16 +15,16 @@ In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne]
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
 <model-viewer 
-  src="https://andreasbueckle.github.io/photogrammetry-scultpure/models/anna_lod_2.glb" 
-  alt="LOD 1 model of the sculpture" 
+  src="https://github.com/andreasbueckle/photogrammetry-scultpure/raw/refs/heads/main/models/anna_lod_2.glb" 
+  alt="LOD 2 model of the sculpture" 
   auto-rotate 
   camera-controls 
   style="width: 100%; height: 500px;">
 </model-viewer>
 
-**Figure 1**. This LOD 1 model of the St. Anna sculpture features ~750,000 polygons and is ~30 MB large.
+**Figure 1**. This LOD 2 model of the St. Anna sculpture features ~200,000 polygons and is ~7.5 MB large.
 
-The LOD 1 GLB is available [here](/models/anna_lod_1.glb). Other LODs and formats are available [here](/models/).
+The LOD 1 and 2 GLB are available [here](/models/). Please contact Andreas Bueckle ([abueckle@iu.edu](abueckle@iu.edu)) for access to the LOD 0 model.
 
 ## Workflow
 The following steps were taken: 
