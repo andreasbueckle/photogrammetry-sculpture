@@ -12,7 +12,7 @@ In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne]
 
 ## Result
 
-<script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer"></script>
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
 
 <model-viewer 
   src="/images/anna_lod_1.glb" 
