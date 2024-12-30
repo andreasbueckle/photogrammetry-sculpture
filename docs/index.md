@@ -24,7 +24,7 @@ In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne]
 
 **Figure 1**. This LOD 2 model of the St. Anna sculpture features ~200,000 polygons and is ~7.5 MB large.
 
-The LOD 1 and 2 GLB are available [here](/models/). Please contact Andreas Bueckle ([abueckle@iu.edu](abueckle@iu.edu)) for access to the LOD 0 model.
+The LOD 1 and 2 GLB are available [here](/docs/models/). Please contact Andreas Bueckle (<a href="mailto:abueckle@iu.edu">abueckle@iu.edu</a>) for access to the LOD 0 model.
 
 ## Workflow
 The following steps were taken: 
@@ -33,18 +33,20 @@ The following steps were taken:
 
 <img src="images/anna_photo.jpg" alt="Sculpture of St. Anna on table" width="85%">
 
-**Figure 2**. The sculpture on a table, ready for taking photographs.
+**Figure 2**. The sculpture sitting on a table, ready for taking photographs.
 
-1. 326 raw images in the RAF format were taken with a Fujifilm mirrorless camera and a 23mm lens. 
-2. All 326 images were imported into Realitt Capture and a 3D model was computed in ~5 hours on a laptop running Windows 11, 64 GB RAM, and a Nvidia A2000 GPU.
+1. 326 raw images in the RAF format were taken with a Fujifilm mirrorless camera and a 23mm lens (see **Hardware** below). 
+2. All 326 images were imported into Reality Capture (see **Software** below) and a 3D model was computed in ~5 hours on a laptop running Windows 11, 64 GB RAM, and a Nvidia A2000 GPU.
 
 <img src="images/rc_capture.png" alt="Sculpture of St. Anna on table" width="85%">
 
 **Figure 3**. A screenshot of Reality Capture, including the 3D view (left) and a view of one of the images used to construct the model (right).
 
-1. The model was textured and exported using the official tutorial at [https://www.youtube.com/watch?v=kRD0rgCnOWQ](https://www.youtube.com/watch?v=kRD0rgCnOWQ).
-2. The original model has 212 million polygons and was not exported. 
-3. For a LOD 0 export (highest resolution), the export out of Reality Capture was used (10 million polygons). LOD 1 (lower resolution) was exported using Blender to combine mesh and textures  resized in Photoshop.   
+1. The final model was textured and exported using the official tutorial at [https://www.youtube.com/watch?v=kRD0rgCnOWQ](https://www.youtube.com/watch?v=kRD0rgCnOWQ).
+2. The original model from 326 photos has 212 million polygons and was not exported. 
+3. For the LOD 0 export (higher resolution), the export out of Reality Capture was used (10 million polygons). 
+4. For the LOD 1 export (lower resolution), the model was imported into Blender to combine mesh and textures  resized in Photoshop.
+5. For the LOD 2 export (lowest resolution, see **Figure 1**), Blender was also used.   
 
 ## Software 
 - [Reality Capture](https://www.capturingreality.com/)
