@@ -24,7 +24,7 @@ In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne]
 
 **Figure 1**. This LOD 2 model of the St. Anna sculpture features ~200,000 polygons and is ~7.5 MB large.
 
-The LOD 1 and 2 GLB are available [here](/docs/models/). Please contact Andreas Bueckle (<a href="mailto:abueckle@iu.edu">abueckle@iu.edu</a>) for access to the LOD 0 model.
+The LOD 1 and 2 GLB are available [here](/models/). Please contact Andreas Bueckle (<a href="mailto:abueckle@iu.edu">abueckle@iu.edu</a>) for access to the LOD 0 model.
 
 ## Workflow
 The following steps were taken: 
