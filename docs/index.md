@@ -8,7 +8,7 @@ title: Photogrammetry Files and Workflow Documentation
 **Date**: December 29, 2024
 
 ## Overview
-In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne](https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_Anne) was photogrammetrized. The 14th art piece was stolen in 1973 and resurfaced in 2024, then returned to its original place in St. Cyriacus in Wiesensteig, Germany ([website in German](https://www.wiesensteig.de/startseite)). A news article is [available in German](https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wiesensteig-diebstahl-figur-kirche-lka-100.html). A more detailed video is [available in German](https://filstalwelle.de/video/2024-11-26-wiesensteig-gestohle-kirchenfigur-anna-selbdritt-kehrt-nach-51-jahren-in-die-stiftskirche-zurueck).
+In this project, a wooden sculpture depicting [Virgin and Child with Saint Anne](https://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_Anne) was photogrammetrized. The 15th century art piece was stolen in 1973 and resurfaced in 2024, then returned to its original place in St. Cyriacus in Wiesensteig, Germany ([website in German](https://www.wiesensteig.de/startseite)). A news article is [available in German](https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wiesensteig-diebstahl-figur-kirche-lka-100.html). A more detailed video is [available in German](https://filstalwelle.de/video/2024-11-26-wiesensteig-gestohle-kirchenfigur-anna-selbdritt-kehrt-nach-51-jahren-in-die-stiftskirche-zurueck).
 
 ## Result
 
@@ -44,9 +44,9 @@ The following steps were taken:
 
 4. The final model was textured and exported using the official tutorial at [https://www.youtube.com/watch?v=kRD0rgCnOWQ](https://www.youtube.com/watch?v=kRD0rgCnOWQ).
 5. The original model from 326 photos has 212 million polygons and was not exported. 
-6. For the LOD 0 export (higher resolution), the export out of Reality Capture was used (10 million polygons). 
+6. For the LOD 0 export (highest resolution), the export out of Reality Capture was used (10 million polygons). 
 7. For the LOD 1 export (lower resolution), the model was imported into Blender to combine mesh and textures  resized in Photoshop.
-8. For the LOD 2 export (lowest resolution, see **Figure 1**), Blender was also used.   
+8. For the LOD 2 export (lowest resolution, see **Figure 1**), the model was again imported into Blender to combine mesh and textures  resized in Photoshop.
 
 ## Software 
 - [Reality Capture](https://www.capturingreality.com/)
